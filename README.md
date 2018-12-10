@@ -1,2 +1,3 @@
-# Sorting_in_java
-Sorting algorithms in java
+# Sorting algorithms in java
+This repository has the coding of sorting algorithms in java.
+1. Bubble Sort
