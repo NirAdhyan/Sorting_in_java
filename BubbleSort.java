@@ -31,7 +31,8 @@ public class BubbleSort {
 		int temp = 0;
 		
 		//Traverse through the array.
-		//The largest number moves to the right end of the array
+		//Compare each element with the adjacent one.
+		//The largest number moves to the right end of the array.
 		for(int i = 0; i < array.length; i++)
 			for(int j = 1; j < array.length-i; j++) {
 				if(array[j-1] > array[j]) {
